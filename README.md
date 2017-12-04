@@ -1,9 +1,7 @@
 # zola4.github.io
 
-##ZOLA PORTIFOLIO PAGE##
-###LIST OF MY PROJECTS###
-
 *PROJECT ONE
 *PROJECT TWO
 *PROJECT THREE
 *PROJECT FOUR
+              
